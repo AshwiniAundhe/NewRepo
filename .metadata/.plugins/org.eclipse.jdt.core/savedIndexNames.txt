@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+I:\Testing\7.   Automation testing\GITX\.metadata\.plugins\org.eclipse.jdt.core
+2280419481.index
+2700623975.index
+1504748277.index
+1465017201.index
+1865797976.index
+3961414876.index
+2834169729.index
