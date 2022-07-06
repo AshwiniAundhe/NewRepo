@@ -14,4 +14,13 @@ public class CalculatorTest {
 	  assertEquals(actres,expres);
  
   }
+  public void multiplyTest() {
+	  int a=7;
+	  int b=10;
+	  int expres =70;
+	  int actres=Calculator.multiply(a,b);
+	  assertEquals(actres,expres);
+ 
+  }
 }
+
